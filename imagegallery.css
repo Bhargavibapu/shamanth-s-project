@@ -1,9 +1,9 @@
 div.gallery {
     
     padding:20px;
-    margin: 55px;
+    margin: 65px;
     border: 1px solid #ccc;
-    border-radius:12px;
+    border-radius:10px;
     float: left;
     width: 280px;
   }
